@@ -31,6 +31,6 @@ Business Skills: Cross-Functional Collaboration, Process Optimization, Problem-S
 
 I thrive in environments where I can blend creativity with analytical thinking, whether it's automating workflows, analyzing complex datasets, or contributing to open-source projects.
 
-🌐 LinkedIn
+🌐 LinkedIn https://www.linkedin.com/in/swasti-bali-97904a1b0/
 
 📩 swasti.bali11@gmail.com
