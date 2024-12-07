@@ -1,4 +1,5 @@
 🌟 Swasti Bali
+
 🚀 Aspiring Data Scientist | Software Test Engineer | Automation Enthusiast
 
 🔍 Passionate about leveraging data insights and automation frameworks to solve real-world problems. With a background in Information Systems and hands-on experience in data analytics and software quality assurance, I aim to bridge the gap between data and technology to deliver impactful solutions.
