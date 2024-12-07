@@ -7,19 +7,27 @@
 📂 Projects that I’m Proud Of:
 
 🔧 Automation Frameworks: Developed automated testing scripts using Selenium and QTP/UFT to streamline processes and ensure seamless application functionality.
+
 📊 Data Analytics: Conducted exploratory and predictive analysis using Python, SQL, and Tableau to uncover actionable business insights.
+
 💻 Machine Learning: Built models for predictive analysis, including heart disease detection, with a focus on accuracy and usability.
+
 📈 Visualizations: Designed dynamic dashboards in Power BI and Tableau to track KPIs and improve decision-making efficiency.
+
 💡 My Tech Stack:
 
-Languages: Python, SQL, Java, R
-Automation Tools: Selenium, QTP/UFT, Appium
-Data Tools: Tableau, Power BI, Pandas, Matplotlib, Seaborn
-Testing Methodologies: Agile/Scrum, API Testing with Postman
+Languages/Framework: Python, R, SQL, C, C++, PySpark, Keras, TensorFlow
+
+Data Processing & Machine Learning: MySQL, Scikit-learn, Pandas, Numpy
+
+Data Visualization/Analysis Tools: Power BI, Tableau, Excel, Matplotlib, Seaborn, Looker Studio, Google Colab, Jupyter, Microsoft Suite, R Studio
+
+Business Skills: Cross-Functional Collaboration, Process Optimization, Problem-Solving, Critical Thinking
+
 ✨ What Drives Me:
+
 I thrive in environments where I can blend creativity with analytical thinking, whether it's automating workflows, analyzing complex datasets, or contributing to open-source projects.
 
-🌍 Let’s Connect:
-
 🌐 LinkedIn
+
 📩 swasti.bali11@gmail.com
